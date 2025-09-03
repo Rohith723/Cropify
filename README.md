@@ -32,11 +32,9 @@ Cropify/
 ## **Installation & Setup**
 
 1. **Clone the repository:**
-
-```bash
+   ```bash
 git clone https://github.com/Rohith723/Cropify.git
 cd Cropify
-
 2. **Install dependencies:**
 
 pip install -r requirements.txt
@@ -44,3 +42,4 @@ pip install -r requirements.txt
 3. **Run the Streamlit app:**
 
 streamlit run cropify_app.py
+
